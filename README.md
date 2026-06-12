@@ -144,7 +144,6 @@ The notebook produces, among others:
 ```
 .
 ├── README.md
-├── .gitignore
 ├── presentation.pdf                    # final project slides (March 2026)
 └── Quant_Finance_Project_Code.ipynb    # main analysis notebook (outputs cleaned of raw records/credentials)
 ```
